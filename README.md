@@ -15,7 +15,6 @@ A Python tool that retrieves stock financial data using Yahoo Finance (yfinance)
 1. Clone the repository
 
 git clone https://github.com/certifiedkaren/financials-analyzer.git
-cd financials-analyzer
 
 2. Create a virtual environment (optional but recommended):
 
